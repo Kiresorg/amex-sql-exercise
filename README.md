@@ -54,7 +54,7 @@ from actor;
 
 **Result set**
 
-![Query 2 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q2.png)
+![Query 2 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q2.PNG)
 
 **Query**
 
