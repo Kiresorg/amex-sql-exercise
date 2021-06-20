@@ -54,7 +54,7 @@ from actor;
 
 **Result set**
 
-![Query 2 result set](images/q2.png)
+![Query 2 result set](/images/q2.png)
 
 **Query**
 
