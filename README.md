@@ -35,7 +35,7 @@ Please create a Github repo to hold your SQL script. You should submit a link to
 
 **Result set**
 
-![Query 1 result set](https://github.com/kiresorg/amex-sql-exercise/blob/main/images/images/q1.png?raw=true)
+![Query 1 result set](https://github.com/kiresorg/amex-sql-exercise/blob/main/images/q1.png?raw=true)
 
 **Query** - Don't cheat :)
 
