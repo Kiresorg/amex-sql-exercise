@@ -54,7 +54,7 @@ from actor;
 
 **Result set**
 
-![Query 2 result set](/images/q2.png)
+![Query 2 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q2.png)
 
 **Query**
 
@@ -74,7 +74,7 @@ where lower(first_name) = lower("Joe");
 
 **Result set**
 
-![Query 3 result set](images/q3.png)
+![Query 3 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q3.png)
 
 **Query**
 
@@ -94,7 +94,7 @@ where upper(last_name) like '%GEN%';
 
 **Result set**
 
-![Query 4 result set](images/q4.png)
+![Query 4 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q4.png)
 
 **Query**
 
@@ -115,7 +115,7 @@ order by last_name, first_name;
 
 **Result set**
 
-![Query 5 result set](images/q5.png)
+![Query 5 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q5.png)
 
 **Query**
 
@@ -135,7 +135,7 @@ where country in ('Afghanistan', 'Bangladesh', 'China');
 
 **Result set**
 
-![Query 6 result set](images/q6.png)
+![Query 6 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q6.png)
 
 **Query**
 
@@ -157,7 +157,7 @@ order by actor_count desc, last_name;
 
 **Result set**
 
-![Query 7 result set](images/q7.png)
+![Query 7 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q7.png)
 
 **Query (your approach used to change the first name may differ; the important thing is to make the change to the correct record)**
 
@@ -177,7 +177,7 @@ select * from actor where last_name = 'WILLIAMS';
 
 **Result set**
 
-![Query 8 result set](images/q8.png)
+![Query 8 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q8.png)
 
 **Query**
 
@@ -197,7 +197,7 @@ select * from actor where last_name = 'WILLIAMS';
 
 **Result set**
 
-![Query 9 result set](images/q9.png)
+![Query 9 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q9.png)
 
 **Query**
 
@@ -217,7 +217,7 @@ select * from actor where last_name = 'WILLIAMS';
 
 **Result set**
 
-![Query 10 result set](images/q10.png)
+![Query 10 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q10.png)
 
 **Query**
 
@@ -241,7 +241,7 @@ group by stf.first_name, stf.last_name;
 
 **Result set**
 
-![Query 11 result set](images/q11.png)
+![Query 11 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q11.png)
 
 **Query**
 
@@ -264,7 +264,7 @@ order by number_of_actors desc;
 
 **Result set**
 
-![Query 12 result set](images/q12.png)
+![Query 12 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q12.png)
 
 **Query**
 
@@ -287,7 +287,7 @@ group by flm.title;
 
 **Result set**
 
-![Query 13 result set](images/q13.png)
+![Query 13 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q13.png)
 
 **Query**
 
@@ -313,7 +313,7 @@ order by title;
 
 **Result set** (your ```rental date``` value will of course show the date and time you entered the record)
 
-![Query 14 result set](images/q14.png)
+![Query 14 result set](https://github.com/Kiresorg/amex-sql-exercise/blob/main/images/q14.png)
 
 **Query**
 
